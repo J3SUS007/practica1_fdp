@@ -1,0 +1,9 @@
+En programación, los logaritmos son esenciales en múltiples contextos. En estructuras de datos, por ejemplo, la búsqueda binaria tiene una complejidad de tiempo de O(log⁡n)O(logn), lo que la hace altamente eficiente para buscar elementos en una lista ordenada. Algo similar ocurre con algoritmos de ordenación como Merge Sort o QuickSort, los cuales presentan complejidades de O(nlog⁡n)O(nlogn), lo que los hace más rápidos que enfoques menos eficientes como Bubble Sort.
+
+Los lenguajes de programación modernos proporcionan funciones integradas para calcular logaritmos. En Python, la biblioteca math ofrece math.log(x, base), que permite calcular el logaritmo de x en cualquier base especificada. Si no se especifica una base, se asume el logaritmo natural (ln⁡xlnx, con base ee). En otros lenguajes como C++, Java y JavaScript, existen funciones similares para calcular logaritmos en distintas bases.
+
+Los logaritmos también desempeñan un papel clave en problemas de complejidad algorítmica. En criptografía, por ejemplo, la dificultad de resolver logaritmos discretos en ciertos grupos matemáticos es la base de muchos sistemas de cifrado, como el algoritmo Diffie-Hellman. Asimismo, en el análisis de grandes volúmenes de datos, escalas logarítmicas ayudan a representar información de manera más manejable.
+
+En el aprendizaje automático y la inteligencia artificial, las funciones logarítmicas aparecen en la regresión logística y en la función de entropía cruzada, que se usa para evaluar modelos de clasificación. También en redes neuronales, donde la función de activación sigmoide usa el logaritmo para normalizar salidas entre 0 y 1.
+
+El uso eficiente de logaritmos en programación permite diseñar algoritmos más rápidos y optimizar el rendimiento de programas que deben manejar grandes cantidades de datos o realizar cálculos matemáticos avanzados.
